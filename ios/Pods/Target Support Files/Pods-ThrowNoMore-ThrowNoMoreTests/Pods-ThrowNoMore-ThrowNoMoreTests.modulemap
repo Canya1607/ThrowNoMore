@@ -1,0 +1,6 @@
+module Pods_ThrowNoMore_ThrowNoMoreTests {
+  umbrella header "Pods-ThrowNoMore-ThrowNoMoreTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
